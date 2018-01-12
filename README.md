@@ -10,4 +10,4 @@ This competition aims at developing a model of classification between icebergs a
 
 Finally there's a brief comparison of the two models and prolongations on how is it possible to use those models in an industrial context. 
 
-*Youtube link to our project's pitch (French) : https://www.youtube.com/watch?v=NVU_3q9GCXE
+*Youtube link to our project's pitch (French) : https://www.youtube.com/watch?v=NVU_3q9GCXE*
